@@ -1,0 +1,6 @@
+{
+    lenght: 4;
+    up_resistor: True;
+    use_punctuation: True;
+    use_number: True;
+}
